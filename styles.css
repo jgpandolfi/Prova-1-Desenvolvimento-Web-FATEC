@@ -1,0 +1,58 @@
+* {
+    background-color: black;
+    color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulos {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: oblique;
+    margin-left: 10px;
+}
+
+nav ul {
+    list-style: none;
+    background-color: brown;
+    padding: 6px 0px;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 10px;
+}
+
+nav ul li a {
+    background-color: brown;
+}
+
+nav ul li a:hover {
+    color: blue;
+    font-weight: 700;
+    padding: 6px 2px;
+    background-color: gray;
+}
+
+#tabela {
+    margin: 20px;
+    border-radius: 1px;
+    border-color: #f1f1f1;
+    border-width: 1px;
+    border-style: solid;
+
+    text-align: center;
+}
+
+#tabela img {
+    width: 100px;
+}
+
+#titUltimosAnos {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#imagens img {
+    width: 200px;
+}
